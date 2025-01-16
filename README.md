@@ -11,14 +11,14 @@ HKEY_CURRENT_USER\SOFTWARE\EasyBoot Systems\UltraISO
 
 - [ ] 中文用户名KeyGen会生成特殊字符，如：
 	```
-	鄙哥
+	xuhao61
 	4DFFC3D44BDB44B2€
 	```
 	但实际Key为```4DFFC3D44BDB44B2```
 
 - [ ]  Key验证相关：
 
-	用户名为```bige```
+	用户名为```xuhao61```
 
 	Key:
 
